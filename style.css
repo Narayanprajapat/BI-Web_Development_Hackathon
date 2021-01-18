@@ -1,43 +1,43 @@
 body {
-  display: inline;
-  justify-content: center;
+	display: inline;
+	justify-content: center;
 }
 .navbar-brand {
-  font-weight: bold;
+	font-weight: bold;
 }
 .size {
-  height: 575px;
-  width: 200px;
+	height: 575px;
+	width: 200px;
 }
 
 .nav-link {
-  font-weight: bold;
-  color: white;
+	font-weight: bold;
+	color: white;
 }
 span img {
-  height: 16px;
-  width: 20px;
+	height: 16px;
+	width: 20px;
 }
 span a img {
-  height: 20px;
-  width: 80px;
+	height: 20px;
+	width: 80px;
 }
 footer {
-  width: 100%;
+	width: 100%;
 }
 
 .footer {
-  display: flex;
-  justify-content: space-between;
+	display: flex;
+	justify-content: space-between;
 }
 
 .footer p:nth-child(1) {
-  line-height: 20px;
+	line-height: 20px;
 }
 
 .card:hover {
-  border: black 3px solid;
+	border: black 3px solid;
 }
 .jumbotron {
-  margin: 0 !important;
+	margin: 0 !important;
 }
